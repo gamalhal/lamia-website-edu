@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&family=Tajawal:wght@400;700&display=swap');
+
 /* خلفية متدرجة هادئة */
 body {
   background: linear-gradient(135deg, #e0e7ff 0%, #f0fdfa 100%);
@@ -91,9 +93,6 @@ header, footer {
 footer {
   border-radius: 0 0 18px 18px;
 }
-
-/* إضافة خط من Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&family=Tajawal:wght@400;700&display=swap');
 
 /* أنماط الترويسة */
 header {
